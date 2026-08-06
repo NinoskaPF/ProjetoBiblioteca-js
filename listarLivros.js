@@ -2,7 +2,7 @@
 //Permite visualizar todas las informaciones de lobros registrados en el sistema.
 
 
-import dadosDeLivros from "./dadosDeLivros.js";
+import dadosDeLivros from "./dadosDeLivro.js";
 
 function listarLivros() {
 

@@ -1,7 +1,7 @@
 //la idea es que se pueda ampliar la base de datos y se puedan registarr nuevos libros a disponibilidad de prestamo
 
 import Livro from "./Livro.js";
-import dadosDeLivros from "./dadosDeLivros.js";
+import dadosDeLivros from "./dadosDeLivro.js";
 
 
 function cadastrarLivro(titulo, autor, categoria, paginas) {

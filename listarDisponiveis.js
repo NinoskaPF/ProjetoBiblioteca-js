@@ -1,6 +1,6 @@
 //debemos mostrar solo los libros que se encuentran disponibles para ser prestados.
 
-import dadosDeLivros from "./dadosDeLivros.js";
+import dadosDeLivros from "./dadosDeLivro.js";
 
 function listarDisponiveis() {
 

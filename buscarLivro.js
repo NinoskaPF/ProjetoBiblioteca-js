@@ -1,6 +1,6 @@
 //la idea es que le libro se pueda encontrar por el titulo indiferentemente la forma que lo escribieron mayusculas o minusculas
 
-import dadosDeLivros from "./dadosDeLivros.js";
+import dadosDeLivros from "./dadosDeLivro.js";
 
 function buscarLivro(tituloBusca) {
 
