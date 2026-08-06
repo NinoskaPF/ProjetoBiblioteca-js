@@ -1,6 +1,6 @@
 //la idea es que se pueda ampliar la base de datos y se puedan registarr nuevos libros a disponibilidad de prestamo
 
-import Livro from "./Livro.js";
+import Livro from "./livro.js";
 import dadosDeLivros from "./dadosDeLivro.js";
 
 
