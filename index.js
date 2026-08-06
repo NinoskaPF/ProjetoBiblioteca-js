@@ -142,4 +142,4 @@ cadastrarNovoLivro(teclado, iniciarSistema);
 
 }
 
-
+iniciarSistema();
